@@ -1,0 +1,18 @@
+//NUMBER TO PRINT FROM 1 TO N.
+
+#include <iostream>
+using namespace std;
+int main(){
+
+    int n;
+    cout << "Enter the value of n" << endl;
+    cin >> n;
+
+    cout << "THEN NUMBERS WILL BE" << endl;
+
+    int i=1;
+    while (i<=n){
+        cout << i << endl;
+        i=i+1;
+    }
+}
