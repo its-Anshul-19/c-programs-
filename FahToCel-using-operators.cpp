@@ -1,3 +1,7 @@
+/* C++ PROGRAM TO CONVERT FAHRENHEIT TO CELSIUS USING RELATIONAL OPERATOR*/
+-------------------------------------------------------------------------------------
+
+
 #include <iostream>
 using namespace std;
 
@@ -26,3 +30,18 @@ cout << "are they equal" << isEqual << endl;
 cout << "is A Greater" << isAGreater << endl;
 cout << "is A  Less" << isALess << endl;
 }
+----------------------------------------------------------------------------------------
+ OUTPUT-
+  
+  
+Enter fah value
+100
+37
+1
+37
+enter a and b
+5
+2
+are they equal 0
+is A Greater 1
+is A  Less 0
